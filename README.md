@@ -25,10 +25,21 @@ Results
 The password-cracking process was successfully completed for all three provided PDF files:
 
 PDF1: Successfully cracked
+
 PDF2: Successfully cracked
+
 PDF3: Successfully cracked
+
 Evidence
-01-johnny-configuration 02-pdf1-hash-extraction 03-pdf1-cracked 04-pdf2-cracked 05-pdf3-cracked 03-pdf1-completion png 06-pdf2-completion 07-pdf3-completion
+
+01-johnny-configuration 
+02-pdf1-hash-extraction 
+03-pdf1-cracked 
+04-pdf2-cracked 
+05-pdf3-cracked 03-pdf1-completion png 
+06-pdf2-completion 07-pdf3-completion
+
+
 Module 2 — Networkwalks Tools
 Tools Used
 Networkwalks Hash Calculator
@@ -47,7 +58,14 @@ PDF1: Successfully cracked
 PDF2: Successfully cracked
 PDF3: Successfully cracked
 Evidence
-01-pdf1-hash-calculator 02-pdf1-password-cracker 03-pdf1-completion 04-pdf2-cracked 05-pdf3-cracked 06-pdf2-completion 07-pdf3-completion
+01-pdf1-hash-calculator 
+02-pdf1-password-cracker 
+03-pdf1-completion 
+04-pdf2-cracked 
+05-pdf3-cracked 
+06-pdf2-completion 
+07-pdf3-completion
+
 Conclusion
 The practical demonstrated the process of recovering passwords from protected PDF files using two different approaches.
 
